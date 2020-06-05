@@ -12,4 +12,6 @@ Some of the characteristics
   - Stardog support is being worked on
 * Mimics original neologism behaviour
 
+Preview of a test version at: http://neoneo.netage.nl
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
